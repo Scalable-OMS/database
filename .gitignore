@@ -1,0 +1,6 @@
+/Lib/
+*.cfg
+/Scripts/
+/Include/
+.env
+*.pyc
